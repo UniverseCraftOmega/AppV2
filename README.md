@@ -13,4 +13,4 @@ LATEST NEWS:
 
 
 
-[b]For details about our latest updates, visit ucomc.enjin.com/[b]
+<b>For details about our latest updates, visit ucomc.enjin.com</b>
