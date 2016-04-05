@@ -1,9 +1,10 @@
-<h2>LATEST NEWS:</h2>
+LATEST NEWS:
 
-<li> <a href="http://bit.ly/201SB0K">Server Lottery (/lottery)</a>
-<li> <a href="http://bit.ly/1RJYzhF">New Category of Cosmetics: Hats!</a>
-<li> <a href="http://bit.ly/1RJYzhF">Treasure Chest Menu + Donator Menu = Cosmetic Menu (/cosmetic)</a>
-<li> <a href="http://bit.ly/1RJYzhF">New Settings Menu (/settings)</a>
+ * Server Lottery (/lottery)
+ * New Category of Cosmetics: Hats!
+ * Treasure Chest Menu + Donator Menu = Cosmetic Menu (/cosmetic)
+ * New Settings Menu (/settings)
 
 
-<b>For details about our latest updates, visit ucomc.enjin.com</b>
+For details about our latest updates, visit ucomc.enjin.com
+___
