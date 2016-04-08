@@ -1,5 +1,6 @@
 LATEST NEWS:
 
+ * LOWER RANK PRICES!!!
  * Server Lottery (/lottery)
  * New Category of Cosmetics: Hats!
  * Treasure Chest Menu + Donator Menu = Cosmetic Menu (/cosmetic)
